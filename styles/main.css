@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+}
+
+.aside{
+    flex-grow: 0.3;
+}
+
+ul {
+    height:500px;
+    overflow:hidden; 
+    overflow-y:scroll;
+}
+
+.mapContainer{
+    flex-grow: 0.7;
+}
